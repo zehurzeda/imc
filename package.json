@@ -1,0 +1,16 @@
+{
+  "name": "imc",
+  "version": "1.0.0",
+  "description": "Site para cálculo do imc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zehurzeda",
+  "license": "ISC",
+  "dependencies": {
+    "c3": "^0.4.18",
+    "jquery": "^3.2.1",
+    "materialize-css": "^0.100.2"
+  }
+}
